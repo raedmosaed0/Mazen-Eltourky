@@ -28,15 +28,6 @@ The website brings his social media platforms, content, and contact options toge
 * Google Fonts
 * Responsive Web Design
 
-## 📱 Social Platforms
-
-* TikTok
-* Instagram
-* YouTube
-* Facebook
-* Threads
-* Content Rewards
-
 ## 🎨 Design
 
 * Dark modern interface
