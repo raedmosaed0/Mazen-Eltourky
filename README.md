@@ -50,7 +50,7 @@ Mazen-Eltourky/
 ├── images/
 │   ├── photo1.jpg
 │   ├── photo2.jpg
-│   ├── photo5.png
+│   ├── photo3.png
 │   ├── threads.png
 │   └── contentrewards.png
 │
