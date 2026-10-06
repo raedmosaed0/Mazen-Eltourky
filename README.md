@@ -19,8 +19,7 @@ The website brings his social media platforms, content, and contact options toge
 * Animated social media marquee
 * Interactive content cards
 
-## 🛠️ Technologies
-
+## 🛠️ Built With
 * HTML5
 * CSS3
 * JavaScript
