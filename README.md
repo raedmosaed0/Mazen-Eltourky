@@ -1,65 +1,62 @@
-# Mazen Eltourky — Portfolio Website
+# 🛡️ Cybersecurity Portfolio
 
-A modern and responsive personal portfolio website built for **Mazen Eltourky**, a TikToker and Content Creator.
+A modern **Cybersecurity Portfolio Website** built with a dark terminal-inspired interface and a futuristic security-focused visual style.
 
-The website brings his social media platforms, content, and contact options together in one clean and interactive experience.
+The website is designed to showcase a cybersecurity profile, including technical skills, experience, projects, security tools, certifications, and other professional information through an interactive and visually engaging interface.
 
-## ✨ Features
+## ✨ Overview
 
-* Modern dark-themed design
-* Fully responsive layout
-* Smooth animations and transitions
-* Social media integration
-* TikTok, Instagram, YouTube, Facebook & Threads
-* WhatsApp contact integration
-* Contact modal
-* Copy phone number functionality
-* Add Contact functionality
-* Mobile-friendly navigation
-* Animated social media marquee
-* Interactive content cards
+The portfolio features a **terminal-style UI** combined with a Matrix-inspired animated background, green security-themed accents, smooth animations, and interactive elements to create a realistic cybersecurity atmosphere.
 
-## 🛠️ Built With
-* HTML5
-* CSS3
-* JavaScript
-* SVG Icons
-* Google Fonts
-* Responsive Web Design
+It includes dedicated sections for presenting:
+
+* 👤 Personal & Professional Profile
+* 🛡️ Cybersecurity Skills
+* 🧪 Security Projects
+* 🛠️ Tools & Technologies
+* 📊 Skills & Statistics
+* 📜 Certifications
+* 📅 Experience & Learning Journey
+* 🔐 Security & Ethical Hacking
+* 📫 Contact & Social Links
 
 ## 🎨 Design
 
-* Dark modern interface
-* Red and purple accents
-* Glassmorphism elements
-* Glow effects
-* Smooth animations
-* Responsive cards
-* Modern typography
+The website follows a dark cybersecurity aesthetic inspired by:
 
-## 📂 Project Structure
+* Linux Terminals
+* Hacker / Security Interfaces
+* Matrix-style visuals
+* Command-line environments
+* Futuristic security dashboards
 
-```text
-Mazen-Eltourky/
-│
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   ├── photo1.jpg
-│   ├── photo2.jpg
-│   ├── photo3.png
-│   ├── threads.png
-│   └── contentrewards.png
-│
-└── README.md
-```
+The interface uses **dark backgrounds, green accents, monospace typography, terminal elements, glowing effects, and animations** to maintain the cybersecurity theme throughout the website.
 
-## 🌐 Live Website
+## ⚙️ Technologies
 
-[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Website-EF4444?style=for-the-badge\&labelColor=111111)](https://mazeneltourky.vercel.app/)
+* HTML5
+* CSS3
+* JavaScript
+* Canvas API
+* CSS Animations
+* Responsive Web Design
+
+## 📱 Responsive Design
+
+The portfolio is fully responsive and adapts its layout and components to different screen sizes, including:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile
+
+## 🖼️ Website Preview
+
+![Cybersecurity Portfolio Preview](preview.png)
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-22C55E?style=for-the-badge\&labelColor=0A0F0A)](YOUR-WEBSITE-LINK)
 
 ## </> Developer
 
@@ -67,4 +64,4 @@ Mazen-Eltourky/
 
 ---
 
-© 2026 Mazen Eltourky
+© 2026 Raed Mosaed
